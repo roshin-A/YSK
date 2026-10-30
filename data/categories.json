@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "suspension",
+    "name": "Suspension",
+    "description": "Lift kits, shocks, coilovers and control arms engineered for extreme articulation.",
+    "image": "/images/categories/cat-suspension.jpg"
+  },
+  {
+    "slug": "armor",
+    "name": "Armor",
+    "description": "Steel bumpers, rock sliders and heavy-duty skid plates built to take a beating.",
+    "image": "/images/categories/cat-armor.jpg"
+  },
+  {
+    "slug": "wheels",
+    "name": "Wheels & Tires",
+    "description": "Beadlock wheels and aggressive all-terrain/mud-terrain tires for every trail.",
+    "image": "/images/categories/cat-wheels.jpg"
+  },
+  {
+    "slug": "recovery",
+    "name": "Recovery",
+    "description": "High-capacity winches, kinetic ropes, shackles and recovery gear to get you home.",
+    "image": "/images/categories/cat-recovery.jpg"
+  },
+  {
+    "slug": "lighting",
+    "name": "Lighting",
+    "description": "Ultra-bright LED light bars, auxiliary pods and projector headlights that turn night into day.",
+    "image": "/images/categories/cat-lighting.jpg"
+  },
+  {
+    "slug": "drivetrain",
+    "name": "Drivetrain",
+    "description": "Lockers, gear sets and heavy-duty axle shafts for unmatched rock-crawling torque.",
+    "image": "/images/categories/cat-drivetrain.jpg"
+  }
+]
